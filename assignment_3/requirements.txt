@@ -1,0 +1,5 @@
+geopandas==1.1.1
+matplotlib==3.10.7
+rasterio==1.4.3
+rasterstats==0.20.0
+scipy==1.15.3
