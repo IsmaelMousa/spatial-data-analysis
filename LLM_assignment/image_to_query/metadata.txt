@@ -1,7 +1,0 @@
-[general]
-name=SQL Query Generator
-qgisMinimumVersion=3.0
-description=Generate SQL queries from images and create QGIS layers
-version=1.0
-author=Ismael
-email=ismaelramzimousa@gmail.com
